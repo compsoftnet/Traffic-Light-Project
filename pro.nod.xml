@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/nodes_file.xsd">
+
+	<node id="1" x="977" y="122" type="priority"/>
+	<node id="2" x="802" y="113" type="priority"/>
+	<node id="3" x="641" y="115" type="priority"/>
+	<node id="4" x="437" y="113" type="traffic_light"/>
+	<node id="5" x="262" y="115" type="priority"/>
+	<node id="6" x="0.65" y="110" type="priority"/>
+
+	<node id="7" x="506" y="92" type="priority"/>
+	<node id="8" x="979" y="62" type="priority"/>
+	<node id="9" x="810" y="60" type="priority"/>
+	<node id="10" x="193" y="60" type="priority"/>
+	<node id="11" x="0.65" y="60" type="priority"/>
+
+	<node id="12" x="439" y="279" type="priority"/>
+	<node id="13" x="439" y="414" type="priority"/>
+	<node id="14" x="435" y="317" type="priority"/>
+	
+
+
+
+
+
+
+</nodes>
